@@ -1,2 +1,2 @@
-this is from master
+this is file1 content from master
 this is from feature
